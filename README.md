@@ -1,6 +1,6 @@
 - 👋Merhaba, Ben İsmail Emir GÜRBÜZ
 - 👀 Ben, Bilgisayar Bilimleri ve yazılım ile ilgileniyorum
-- 🌱 Pamukkale Üniversitesi Bilgisayar Mühendisliği 2.sınıf öğrencisiyim. Bilgisayar Bilimleri, yazılım, logic devre tasarımları yapmayı öğreniyorum.
+- 🌱 Pamukkale Üniversitesi Bilgisayar Mühendisliği 3.sınıf öğrencisiyim. Bilgisayar Bilimleri, yazılım, logic devre tasarımları yapmayı öğreniyorum.
 
 
 <!---
